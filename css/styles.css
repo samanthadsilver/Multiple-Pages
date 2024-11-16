@@ -1,12 +1,25 @@
 body {
-  background: blue;
+  background: #f8e8a6;
+  text-align: center;
 }
 
 h1 {
   text-align: center;
-  color: white;
+  color: black;
 }
 
-a {
-  color: white;
+footer {
+  text-align: center;
+}
+
+footer a {
+  color: green;
+  margin: 0 10px;
+}
+
+.croissant {
+  max-width: 60%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
